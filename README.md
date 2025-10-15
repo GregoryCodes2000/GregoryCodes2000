@@ -3,25 +3,9 @@
 
 
 
-<p>Welcome to my page! </br> I'm Gregory Peck, Full Stack Web Developer and Graphic Designer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Toronto, Canada</b>. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. </p>
+<p><br>Welcome to my page! </br> I'm Gregory Peck, Full Stack Web Developer and Graphic Designer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Toronto, Canada</b>. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️. </p>
 
  
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="280px"/>
-  
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gregory-peck/)
-
-
-<br>
-
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -50,14 +34,27 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+
+  
+<h2>More About Me:</h2>
+<p><img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/></p>
+
+<p>
+ <br>
+ <br>- 🔭 &nbsp; I’m currently working on ...</br>
+- 🌱 &nbsp; I’m currently learning Typescript;
+<br>- 💻 &nbsp; Most of my projects are available on ...</br>
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+<br>- 📫 &nbsp; Feel free to ping me on ...</br>
+</br>
+</p>
+
+
 <br>
+</br>
 
-
-
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+------------
+<h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
