@@ -42,15 +42,15 @@
 
 <p>
  <br>
- <br>- 🔭 &nbsp; I’m currently working on ...</br>
-- 🌱 &nbsp; I’m currently learning Typescript;
-<br>- 💻 &nbsp; Most of my projects are available on ...</br>
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-<br>- 📫 &nbsp; Feel free to ping me on ...</br>
+ <br>- 💻 Currently working on IoT gateway systems, LoRa-based communication, and connecting sensors and automation systems through live data visualization and control integration;</br>
+- 🌱 I’m currently learning Typescript;
+<br>- 🛠️ Most of my projects are available on GitHub;</br>
+- 💬 Ask me about anything tech-related, I am happy to help;
+<br>- 📫 Feel free to ping me on LinkedIn; </br>
 </br>
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
- <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/GregoryCodes2000" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+ <a href="https://www.linkedin.com/in/gregory-peck" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
